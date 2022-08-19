@@ -8,13 +8,16 @@ alguns detalhes sobre mim/ some details about me
     
         FORMAÇÕES (atualizado sempre que possivel)
       
-      > Certificado - Python_ começando com a linguagem
+      > Certificado Alura - Python_ começando com a linguagem
     
-      > Certificado - Python_ entendendo a Orientação a Objetos
+      > Certificado Alura - Python_ entendendo a Orientação a Objetos
    
-      > Certificado - Python_ avançando na linguagem
+      > Certificado Alura - Python_ avançando na linguagem
       
       > Coursera + Google - Fundamentos: dados, dados, em todos os lugares 
+      
+      > Certificado Alura - Python_ avançando na orientação a objetos
+
       
         SKILLS
         
