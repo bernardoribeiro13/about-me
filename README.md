@@ -17,6 +17,16 @@ alguns detalhes sobre mim/ some details about me
       > Coursera + Google - Fundamentos: dados, dados, em todos os lugares 
       
       > Certificado Alura - Python_ avançando na orientação a objetos
+      
+      > Certificado Alura - Python para Data Science
+      
+      > Certificado Alura - String em Python_ extraindo informações de uma URL
+      
+      > Certificado Alura - Python Collections parte 1_ listas e tuplas
+      
+      > Certificado Alura - Python Collections parte 2_ conjuntos e dicionários
+      
+      
 
       
         SKILLS
