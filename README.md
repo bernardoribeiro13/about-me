@@ -27,6 +27,9 @@ alguns detalhes sobre mim/ some details about me
       > Certificado Alura - Python Collections parte 2_ conjuntos e dicionários
       
       > Coursera + google -  fazer perguntas e tomar decisões com base em dados
+      
+      > Certificado Alura - SQL com MySQL_ manipule e consulte dados
+
 
             
         SKILLS
